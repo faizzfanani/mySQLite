@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="biruTua">#101D27</color>
+    <color name="merahMaroon">#8F0808</color>
+    <color name="merahMuda">#E13C3C</color>
+    <color name="hijau">#158409</color>
+    <color name="abuMuda">#D8D8D8</color>
+    <color name="putih">#FFFFFF</color>
+</resources>

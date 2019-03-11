@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tugas1SQLite</string>
+    <string name="search_hint">Cari berdasarkan rekening..</string>
+    <string name="action_search">Cari</string>
+</resources>
